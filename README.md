@@ -1,1 +1,2 @@
-# taskCSVreader
+# taskCSVReader.
+Использовал VS 2019 и msvc. Проверил под gcc, работает. Также проверил файл long.csv, в котором много данных.
